@@ -2,461 +2,461 @@
    {
       "locale":"af",
       "country":"Afrikaans",
-      "string":"y dit?"
+      "string":"en haar?"
    },
    {
       "locale":"ar",
       "country":"Arabic",
-      "string":"ذ ذلك؟"
+      "string":"و هي؟"
    },
    {
       "locale":"az",
       "country":"Azerbaijani",
-      "string":"burada?"
+      "string":"və onunla?"
    },
    {
       "locale":"be",
       "country":"Belarusian",
-      "string":"ў яго?"
+      "string":"і яна?"
    },
    {
       "locale":"bg",
       "country":"Bulgarian",
-      "string":"у него?"
+      "string":"и тя?"
    },
    {
       "locale":"bn",
       "country":"Bengali",
-      "string":"এটা Y?"
+      "string":"এবং তার?"
    },
    {
       "locale":"bs",
       "country":"Bosnian",
-      "string":"ovdje?"
+      "string":"i nju?"
    },
    {
       "locale":"ca",
       "country":"Catalan",
-      "string":"aquí?"
+      "string":"i ella?"
    },
    {
       "locale":"ceb",
       "country":"Cebuano",
-      "string":"dinhi?"
+      "string":"ug siya?"
    },
    {
       "locale":"cs",
       "country":"Czech",
-      "string":"tady?"
+      "string":"a její?"
    },
    {
       "locale":"cy",
       "country":"Welsh",
-      "string":"yma?"
+      "string":"a hi?"
    },
    {
       "locale":"da",
       "country":"Danish",
-      "string":"y det?"
+      "string":"og hende?"
    },
    {
       "locale":"de",
       "country":"German",
-      "string":"hier"
+      "string":"und sie?"
    },
    {
       "locale":"el",
       "country":"Greek",
-      "string":"εδώ;"
+      "string":"και της;"
    },
    {
       "locale":"en",
       "country":"English",
-      "string":"here?"
+      "string":"and her?"
    },
    {
       "locale":"eo",
       "country":"Esperanto",
-      "string":"here?"
+      "string":"and her?"
    },
    {
       "locale":"es",
       "country":"Spanish",
-      "string":"aqui?"
+      "string":"y eia?"
    },
    {
       "locale":"et",
       "country":"Estonian",
-      "string":"siin?"
+      "string":"ja tema?"
    },
    {
       "locale":"eu",
       "country":"Basque",
-      "string":"y da?"
+      "string":"eta bere?"
    },
    {
       "locale":"fa",
       "country":"Persian",
-      "string":"اینجا؟"
+      "string":"و او؟"
    },
    {
       "locale":"fi",
       "country":"Finnish",
-      "string":"y se?"
+      "string":"ja hän?"
    },
    {
       "locale":"fr",
       "country":"French",
-      "string":"ici?"
+      "string":"et elle?"
    },
    {
       "locale":"ga",
       "country":"Irish",
-      "string":"anseo?"
+      "string":"agus í?"
    },
    {
       "locale":"gl",
       "country":"Galician",
-      "string":"aquí?"
+      "string":"e ela?"
    },
    {
       "locale":"gu",
       "country":"Gujarati",
-      "string":"અહીં?"
+      "string":"અને તેણી?"
    },
    {
       "locale":"ha",
       "country":"Hausa",
-      "string":"a nan?"
+      "string":"da ita?"
    },
    {
       "locale":"hi",
       "country":"Hindi",
-      "string":"यह y?"
+      "string":"और वह"
    },
    {
       "locale":"hmn",
       "country":"Hmong",
-      "string":"here?"
+      "string":"and her?"
    },
    {
       "locale":"hr",
       "country":"Croatian",
-      "string":"y to?"
+      "string":"i ona?"
    },
    {
       "locale":"ht",
       "country":"Haitian Creole",
-      "string":"isit la?"
+      "string":"ak li?"
    },
    {
       "locale":"hu",
       "country":"Hungarian",
-      "string":"y ez?"
+      "string":"és ő?"
    },
    {
       "locale":"hy",
       "country":"Armenian",
-      "string":"այստեղ"
+      "string":"եւ նրան:"
    },
    {
       "locale":"id",
       "country":"Indonesian",
-      "string":"disini?"
+      "string":"dan dia?"
    },
    {
       "locale":"ig",
       "country":"Igbo",
-      "string":"ebe a?"
+      "string":"na ya?"
    },
    {
       "locale":"is",
       "country":"Icelandic",
-      "string":"hérna?"
+      "string":"og hún?"
    },
    {
       "locale":"it",
       "country":"Italian",
-      "string":"y esso?"
+      "string":"e lei?"
    },
    {
       "locale":"iw",
       "country":"Hebrew",
-      "string":"y זה?"
+      "string":"שלה?"
    },
    {
       "locale":"ja",
       "country":"Japanese",
-      "string":"ここ？"
+      "string":"そして彼女？"
    },
    {
       "locale":"jw",
       "country":"Javanese",
-      "string":"kene?"
+      "string":"lan dheweke?"
    },
    {
       "locale":"ka",
       "country":"Georgian",
-      "string":"აქ?"
+      "string":"და მისი?"
    },
    {
       "locale":"kk",
       "country":"Kazakh",
-      "string":"мұнда?"
+      "string":"және оны?"
    },
    {
       "locale":"km",
       "country":"Khmer",
-      "string":"នៅទីនេះ?"
+      "string":"និងនាង?"
    },
    {
       "locale":"kn",
       "country":"Kannada",
-      "string":"ಇಲ್ಲಿ?"
+      "string":"ಮತ್ತು ಅವಳ?"
    },
    {
       "locale":"ko",
       "country":"Korean",
-      "string":"여기?"
+      "string":"그리고 그녀?"
    },
    {
       "locale":"la",
       "country":"Latin",
-      "string":"here?"
+      "string":"and her?"
    },
    {
       "locale":"lo",
       "country":"Lao",
-      "string":"ທີ່ນີ້?"
+      "string":"ແລະນາງ?"
    },
    {
       "locale":"lt",
       "country":"Lithuanian",
-      "string":"čia?"
+      "string":"ir jos?"
    },
    {
       "locale":"lv",
       "country":"Latvian",
-      "string":"šeit?"
+      "string":"un viņas?"
    },
    {
       "locale":"mg",
       "country":"Malagasy",
-      "string":"Y izany?"
+      "string":"ary izy?"
    },
    {
       "locale":"mi",
       "country":"Maori",
-      "string":"i konei?"
+      "string":"me tana?"
    },
    {
       "locale":"mk",
       "country":"Macedonian",
-      "string":"овде?"
+      "string":"и неа?"
    },
    {
       "locale":"ml",
       "country":"Malayalam",
-      "string":"ഇവിടെ?"
+      "string":"അവളോ?"
    },
    {
       "locale":"mn",
       "country":"Mongolian",
-      "string":"энд?"
+      "string":"мөн үү?"
    },
    {
       "locale":"mr",
       "country":"Marathi",
-      "string":"इथे?"
+      "string":"आणि तिचा?"
    },
    {
       "locale":"ms",
       "country":"Malay",
-      "string":"di sini?"
+      "string":"dan dia?"
    },
    {
       "locale":"mt",
       "country":"Maltese",
-      "string":"hawn?"
+      "string":"u tagħha?"
    },
    {
       "locale":"my",
       "country":"Myanmar (Burmese)",
-      "string":"y ကလော"
+      "string":"သူ?"
    },
    {
       "locale":"ne",
       "country":"Nepali",
-      "string":"यहाँ?"
+      "string":"र उनको?"
    },
    {
       "locale":"nl",
       "country":"Dutch",
-      "string":"y het?"
+      "string":"en haar?"
    },
    {
       "locale":"no",
       "country":"Norwegian",
-      "string":"y det?"
+      "string":"og henne?"
    },
    {
       "locale":"ny",
       "country":"Chichewa",
-      "string":"pano?"
+      "string":"ndi iye?"
    },
    {
       "locale":"pa",
       "country":"Punjabi",
-      "string":"ਇੱਥੇ?"
+      "string":"ਅਤੇ ਉਸਨੂੰ?"
    },
    {
       "locale":"pl",
       "country":"Polish",
-      "string":"tutaj?"
+      "string":"i ona?"
    },
    {
       "locale":"pt",
       "country":"Portuguese",
-      "string":"aqui?"
+      "string":"e ela?"
    },
    {
       "locale":"ro",
       "country":"Romanian",
-      "string":"y-l?"
+      "string":"și ea?"
    },
    {
       "locale":"ru",
       "country":"Russian",
-      "string":"у него?"
+      "string":"а ее?"
    },
    {
       "locale":"si",
       "country":"Sinhala",
-      "string":"මෙතන?"
+      "string":"සහ ඇය"
    },
    {
       "locale":"sk",
       "country":"Slovak",
-      "string":"y to?"
+      "string":"a jej?"
    },
    {
       "locale":"sl",
       "country":"Slovenian",
-      "string":"tukaj?"
+      "string":"in njo?"
    },
    {
       "locale":"so",
       "country":"Somali",
-      "string":"halkan?"
+      "string":"iyo iyada?"
    },
    {
       "locale":"sq",
       "country":"Albanian",
-      "string":"y ajo?"
+      "string":"dhe e saj?"
    },
    {
       "locale":"sr",
       "country":"Serbian",
-      "string":"овде?"
+      "string":"и њу?"
    },
    {
       "locale":"st",
       "country":"Sesotho",
-      "string":"mona?"
+      "string":"le eena?"
    },
    {
       "locale":"su",
       "country":"Sundanese",
-      "string":"y eta?"
+      "string":"jeung manehna?"
    },
    {
       "locale":"sv",
       "country":"Swedish",
-      "string":"y det?"
+      "string":"och henne?"
    },
    {
       "locale":"sw",
       "country":"Swahili",
-      "string":"hapa?"
+      "string":"na yeye?"
    },
    {
       "locale":"ta",
       "country":"Tamil",
-      "string":"ஒய் அது?"
+      "string":"அவள்?"
    },
    {
       "locale":"te",
       "country":"Telugu",
-      "string":"y ఇది?"
+      "string":"మరియు ఆమె?"
    },
    {
       "locale":"tg",
       "country":"Tajik",
-      "string":"дар ин ҷо?"
+      "string":"ва вай?"
    },
    {
       "locale":"th",
       "country":"Thai",
-      "string":"Y มันได้หรือไม่"
+      "string":"และเธอ?"
    },
    {
       "locale":"tl",
       "country":"Filipino",
-      "string":"dito?"
+      "string":"at kanya?"
    },
    {
       "locale":"tr",
       "country":"Turkish",
-      "string":"Y,?"
+      "string":"ve o?"
    },
    {
       "locale":"uk",
       "country":"Ukrainian",
-      "string":"тут?"
+      "string":"і її?"
    },
    {
       "locale":"ur",
       "country":"Urdu",
-      "string":"یہاں؟"
+      "string":"اور اس کا؟"
    },
    {
       "locale":"uz",
       "country":"Uzbek",
-      "string":"bu yerda?"
+      "string":"va uni?"
    },
    {
       "locale":"vi",
       "country":"Vietnamese",
-      "string":"đây"
+      "string":"còn cô ấy?"
    },
    {
       "locale":"yi",
       "country":"Yiddish",
-      "string":"דאָ?"
+      "string":"און איר?"
    },
    {
       "locale":"yo",
       "country":"Yoruba",
-      "string":"nibi?"
+      "string":"ati rẹ?"
    },
    {
       "locale":"zh",
       "country":"Chinese",
-      "string":"ÿ呢？"
+      "string":"和她？"
    },
    {
       "locale":"zh-CN",
       "country":"Chinese (Simplified)",
-      "string":"ÿ呢？"
+      "string":"和她？"
    },
    {
       "locale":"zh-TW",
       "country":"Chinese (Traditional)",
-      "string":"ÿ呢？"
+      "string":"和她？"
    },
    {
       "locale":"zu",
       "country":"Zulu",
-      "string":"lapha?"
+      "string":"naye?"
    }
 ]
