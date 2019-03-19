@@ -1,462 +1,467 @@
 [
-   {
-      "locale":"af",
-      "country":"Afrikaans",
-      "string":"en haar?"
-   },
-   {
-      "locale":"ar",
-      "country":"Arabic",
-      "string":"و هي؟"
-   },
-   {
-      "locale":"az",
-      "country":"Azerbaijani",
-      "string":"və onunla?"
-   },
-   {
-      "locale":"be",
-      "country":"Belarusian",
-      "string":"і яна?"
-   },
-   {
-      "locale":"bg",
-      "country":"Bulgarian",
-      "string":"и тя?"
-   },
-   {
-      "locale":"bn",
-      "country":"Bengali",
-      "string":"এবং তার?"
-   },
-   {
-      "locale":"bs",
-      "country":"Bosnian",
-      "string":"i nju?"
-   },
-   {
-      "locale":"ca",
-      "country":"Catalan",
-      "string":"i ella?"
-   },
-   {
-      "locale":"ceb",
-      "country":"Cebuano",
-      "string":"ug siya?"
-   },
-   {
-      "locale":"cs",
-      "country":"Czech",
-      "string":"a její?"
-   },
-   {
-      "locale":"cy",
-      "country":"Welsh",
-      "string":"a hi?"
-   },
-   {
-      "locale":"da",
-      "country":"Danish",
-      "string":"og hende?"
-   },
-   {
-      "locale":"de",
-      "country":"German",
-      "string":"und sie?"
-   },
-   {
-      "locale":"el",
-      "country":"Greek",
-      "string":"και της;"
-   },
-   {
-      "locale":"en",
-      "country":"English",
-      "string":"and her?"
-   },
-   {
-      "locale":"eo",
-      "country":"Esperanto",
-      "string":"and her?"
-   },
-   {
-      "locale":"es",
-      "country":"Spanish",
-      "string":"y eia?"
-   },
-   {
-      "locale":"et",
-      "country":"Estonian",
-      "string":"ja tema?"
-   },
-   {
-      "locale":"eu",
-      "country":"Basque",
-      "string":"eta bere?"
-   },
-   {
-      "locale":"fa",
-      "country":"Persian",
-      "string":"و او؟"
-   },
-   {
-      "locale":"fi",
-      "country":"Finnish",
-      "string":"ja hän?"
-   },
-   {
-      "locale":"fr",
-      "country":"French",
-      "string":"et elle?"
-   },
-   {
-      "locale":"ga",
-      "country":"Irish",
-      "string":"agus í?"
-   },
-   {
-      "locale":"gl",
-      "country":"Galician",
-      "string":"e ela?"
-   },
-   {
-      "locale":"gu",
-      "country":"Gujarati",
-      "string":"અને તેણી?"
-   },
-   {
-      "locale":"ha",
-      "country":"Hausa",
-      "string":"da ita?"
-   },
-   {
-      "locale":"hi",
-      "country":"Hindi",
-      "string":"और वह"
-   },
-   {
-      "locale":"hmn",
-      "country":"Hmong",
-      "string":"and her?"
-   },
-   {
-      "locale":"hr",
-      "country":"Croatian",
-      "string":"i ona?"
-   },
-   {
-      "locale":"ht",
-      "country":"Haitian Creole",
-      "string":"ak li?"
-   },
-   {
-      "locale":"hu",
-      "country":"Hungarian",
-      "string":"és ő?"
-   },
-   {
-      "locale":"hy",
-      "country":"Armenian",
-      "string":"եւ նրան:"
-   },
-   {
-      "locale":"id",
-      "country":"Indonesian",
-      "string":"dan dia?"
-   },
-   {
-      "locale":"ig",
-      "country":"Igbo",
-      "string":"na ya?"
-   },
-   {
-      "locale":"is",
-      "country":"Icelandic",
-      "string":"og hún?"
-   },
-   {
-      "locale":"it",
-      "country":"Italian",
-      "string":"e lei?"
-   },
-   {
-      "locale":"iw",
-      "country":"Hebrew",
-      "string":"שלה?"
-   },
-   {
-      "locale":"ja",
-      "country":"Japanese",
-      "string":"そして彼女？"
-   },
-   {
-      "locale":"jw",
-      "country":"Javanese",
-      "string":"lan dheweke?"
-   },
-   {
-      "locale":"ka",
-      "country":"Georgian",
-      "string":"და მისი?"
-   },
-   {
-      "locale":"kk",
-      "country":"Kazakh",
-      "string":"және оны?"
-   },
-   {
-      "locale":"km",
-      "country":"Khmer",
-      "string":"និងនាង?"
-   },
-   {
-      "locale":"kn",
-      "country":"Kannada",
-      "string":"ಮತ್ತು ಅವಳ?"
-   },
-   {
-      "locale":"ko",
-      "country":"Korean",
-      "string":"그리고 그녀?"
-   },
-   {
-      "locale":"la",
-      "country":"Latin",
-      "string":"and her?"
-   },
-   {
-      "locale":"lo",
-      "country":"Lao",
-      "string":"ແລະນາງ?"
-   },
-   {
-      "locale":"lt",
-      "country":"Lithuanian",
-      "string":"ir jos?"
-   },
-   {
-      "locale":"lv",
-      "country":"Latvian",
-      "string":"un viņas?"
-   },
-   {
-      "locale":"mg",
-      "country":"Malagasy",
-      "string":"ary izy?"
-   },
-   {
-      "locale":"mi",
-      "country":"Maori",
-      "string":"me tana?"
-   },
-   {
-      "locale":"mk",
-      "country":"Macedonian",
-      "string":"и неа?"
-   },
-   {
-      "locale":"ml",
-      "country":"Malayalam",
-      "string":"അവളോ?"
-   },
-   {
-      "locale":"mn",
-      "country":"Mongolian",
-      "string":"мөн үү?"
-   },
-   {
-      "locale":"mr",
-      "country":"Marathi",
-      "string":"आणि तिचा?"
-   },
-   {
-      "locale":"ms",
-      "country":"Malay",
-      "string":"dan dia?"
-   },
-   {
-      "locale":"mt",
-      "country":"Maltese",
-      "string":"u tagħha?"
-   },
-   {
-      "locale":"my",
-      "country":"Myanmar (Burmese)",
-      "string":"သူ?"
-   },
-   {
-      "locale":"ne",
-      "country":"Nepali",
-      "string":"र उनको?"
-   },
-   {
-      "locale":"nl",
-      "country":"Dutch",
-      "string":"en haar?"
-   },
-   {
-      "locale":"no",
-      "country":"Norwegian",
-      "string":"og henne?"
-   },
-   {
-      "locale":"ny",
-      "country":"Chichewa",
-      "string":"ndi iye?"
-   },
-   {
-      "locale":"pa",
-      "country":"Punjabi",
-      "string":"ਅਤੇ ਉਸਨੂੰ?"
-   },
-   {
-      "locale":"pl",
-      "country":"Polish",
-      "string":"i ona?"
-   },
-   {
-      "locale":"pt",
-      "country":"Portuguese",
-      "string":"e ela?"
-   },
-   {
-      "locale":"ro",
-      "country":"Romanian",
-      "string":"și ea?"
-   },
-   {
-      "locale":"ru",
-      "country":"Russian",
-      "string":"а ее?"
-   },
-   {
-      "locale":"si",
-      "country":"Sinhala",
-      "string":"සහ ඇය"
-   },
-   {
-      "locale":"sk",
-      "country":"Slovak",
-      "string":"a jej?"
-   },
-   {
-      "locale":"sl",
-      "country":"Slovenian",
-      "string":"in njo?"
-   },
-   {
-      "locale":"so",
-      "country":"Somali",
-      "string":"iyo iyada?"
-   },
-   {
-      "locale":"sq",
-      "country":"Albanian",
-      "string":"dhe e saj?"
-   },
-   {
-      "locale":"sr",
-      "country":"Serbian",
-      "string":"и њу?"
-   },
-   {
-      "locale":"st",
-      "country":"Sesotho",
-      "string":"le eena?"
-   },
-   {
-      "locale":"su",
-      "country":"Sundanese",
-      "string":"jeung manehna?"
-   },
-   {
-      "locale":"sv",
-      "country":"Swedish",
-      "string":"och henne?"
-   },
-   {
-      "locale":"sw",
-      "country":"Swahili",
-      "string":"na yeye?"
-   },
-   {
-      "locale":"ta",
-      "country":"Tamil",
-      "string":"அவள்?"
-   },
-   {
-      "locale":"te",
-      "country":"Telugu",
-      "string":"మరియు ఆమె?"
-   },
-   {
-      "locale":"tg",
-      "country":"Tajik",
-      "string":"ва вай?"
-   },
-   {
-      "locale":"th",
-      "country":"Thai",
-      "string":"และเธอ?"
-   },
-   {
-      "locale":"tl",
-      "country":"Filipino",
-      "string":"at kanya?"
-   },
-   {
-      "locale":"tr",
-      "country":"Turkish",
-      "string":"ve o?"
-   },
-   {
-      "locale":"uk",
-      "country":"Ukrainian",
-      "string":"і її?"
-   },
-   {
-      "locale":"ur",
-      "country":"Urdu",
-      "string":"اور اس کا؟"
-   },
-   {
-      "locale":"uz",
-      "country":"Uzbek",
-      "string":"va uni?"
-   },
-   {
-      "locale":"vi",
-      "country":"Vietnamese",
-      "string":"còn cô ấy?"
-   },
-   {
-      "locale":"yi",
-      "country":"Yiddish",
-      "string":"און איר?"
-   },
-   {
-      "locale":"yo",
-      "country":"Yoruba",
-      "string":"ati rẹ?"
-   },
-   {
-      "locale":"zh",
-      "country":"Chinese",
-      "string":"和她？"
-   },
-   {
-      "locale":"zh-CN",
-      "country":"Chinese (Simplified)",
-      "string":"和她？"
-   },
-   {
-      "locale":"zh-TW",
-      "country":"Chinese (Traditional)",
-      "string":"和她？"
-   },
-   {
-      "locale":"zu",
-      "country":"Zulu",
-      "string":"naye?"
-   }
+  {
+    "locale": "af",
+    "country": "Afrikaans",
+    "string": "en haar?"
+  },
+  {
+    "locale": "ar",
+    "country": "Arabic",
+    "string": "و هي؟"
+  },
+  {
+    "locale": "az",
+    "country": "Azerbaijani",
+    "string": "və onunla?"
+  },
+  {
+    "locale": "be",
+    "country": "Belarusian",
+    "string": "і яна?"
+  },
+  {
+    "locale": "bg",
+    "country": "Bulgarian",
+    "string": "и тя?"
+  },
+  {
+    "locale": "bn",
+    "country": "Bengali",
+    "string": "এবং তার?"
+  },
+  {
+    "locale": "bs",
+    "country": "Bosnian",
+    "string": "i nju?"
+  },
+  {
+    "locale": "ca",
+    "country": "Catalan",
+    "string": "i ella?"
+  },
+  {
+    "locale": "ceb",
+    "country": "Cebuano",
+    "string": "ug siya?"
+  },
+  {
+    "locale": "cs",
+    "country": "Czech",
+    "string": "a její?"
+  },
+  {
+    "locale": "cy",
+    "country": "Welsh",
+    "string": "a hi?"
+  },
+  {
+    "locale": "da",
+    "country": "Danish",
+    "string": "og hende?"
+  },
+  {
+    "locale": "de",
+    "country": "German",
+    "string": "und sie?"
+  },
+  {
+    "locale": "el",
+    "country": "Greek",
+    "string": "και της;"
+  },
+  {
+    "locale": "en",
+    "country": "English",
+    "string": "and her?"
+  },
+  {
+    "locale": "eo",
+    "country": "Esperanto",
+    "string": "and her?"
+  },
+  {
+    "locale": "es",
+    "country": "Spanish",
+    "string": "y eiais?"
+  },
+  {
+    "locale": "es-AR",
+    "country": "Spanish",
+    "string": "y eia?"
+  },
+  {
+    "locale": "et",
+    "country": "Estonian",
+    "string": "ja tema?"
+  },
+  {
+    "locale": "eu",
+    "country": "Basque",
+    "string": "eta bere?"
+  },
+  {
+    "locale": "fa",
+    "country": "Persian",
+    "string": "و او؟"
+  },
+  {
+    "locale": "fi",
+    "country": "Finnish",
+    "string": "ja hän?"
+  },
+  {
+    "locale": "fr",
+    "country": "French",
+    "string": "et elle?"
+  },
+  {
+    "locale": "ga",
+    "country": "Irish",
+    "string": "agus í?"
+  },
+  {
+    "locale": "gl",
+    "country": "Galician",
+    "string": "e ela?"
+  },
+  {
+    "locale": "gu",
+    "country": "Gujarati",
+    "string": "અને તેણી?"
+  },
+  {
+    "locale": "ha",
+    "country": "Hausa",
+    "string": "da ita?"
+  },
+  {
+    "locale": "hi",
+    "country": "Hindi",
+    "string": "और वह"
+  },
+  {
+    "locale": "hmn",
+    "country": "Hmong",
+    "string": "and her?"
+  },
+  {
+    "locale": "hr",
+    "country": "Croatian",
+    "string": "i ona?"
+  },
+  {
+    "locale": "ht",
+    "country": "Haitian Creole",
+    "string": "ak li?"
+  },
+  {
+    "locale": "hu",
+    "country": "Hungarian",
+    "string": "és ő?"
+  },
+  {
+    "locale": "hy",
+    "country": "Armenian",
+    "string": "եւ նրան:"
+  },
+  {
+    "locale": "id",
+    "country": "Indonesian",
+    "string": "dan dia?"
+  },
+  {
+    "locale": "ig",
+    "country": "Igbo",
+    "string": "na ya?"
+  },
+  {
+    "locale": "is",
+    "country": "Icelandic",
+    "string": "og hún?"
+  },
+  {
+    "locale": "it",
+    "country": "Italian",
+    "string": "e lei?"
+  },
+  {
+    "locale": "iw",
+    "country": "Hebrew",
+    "string": "שלה?"
+  },
+  {
+    "locale": "ja",
+    "country": "Japanese",
+    "string": "そして彼女？"
+  },
+  {
+    "locale": "jw",
+    "country": "Javanese",
+    "string": "lan dheweke?"
+  },
+  {
+    "locale": "ka",
+    "country": "Georgian",
+    "string": "და მისი?"
+  },
+  {
+    "locale": "kk",
+    "country": "Kazakh",
+    "string": "және оны?"
+  },
+  {
+    "locale": "km",
+    "country": "Khmer",
+    "string": "និងនាង?"
+  },
+  {
+    "locale": "kn",
+    "country": "Kannada",
+    "string": "ಮತ್ತು ಅವಳ?"
+  },
+  {
+    "locale": "ko",
+    "country": "Korean",
+    "string": "그리고 그녀?"
+  },
+  {
+    "locale": "la",
+    "country": "Latin",
+    "string": "and her?"
+  },
+  {
+    "locale": "lo",
+    "country": "Lao",
+    "string": "ແລະນາງ?"
+  },
+  {
+    "locale": "lt",
+    "country": "Lithuanian",
+    "string": "ir jos?"
+  },
+  {
+    "locale": "lv",
+    "country": "Latvian",
+    "string": "un viņas?"
+  },
+  {
+    "locale": "mg",
+    "country": "Malagasy",
+    "string": "ary izy?"
+  },
+  {
+    "locale": "mi",
+    "country": "Maori",
+    "string": "me tana?"
+  },
+  {
+    "locale": "mk",
+    "country": "Macedonian",
+    "string": "и неа?"
+  },
+  {
+    "locale": "ml",
+    "country": "Malayalam",
+    "string": "അവളോ?"
+  },
+  {
+    "locale": "mn",
+    "country": "Mongolian",
+    "string": "мөн үү?"
+  },
+  {
+    "locale": "mr",
+    "country": "Marathi",
+    "string": "आणि तिचा?"
+  },
+  {
+    "locale": "ms",
+    "country": "Malay",
+    "string": "dan dia?"
+  },
+  {
+    "locale": "mt",
+    "country": "Maltese",
+    "string": "u tagħha?"
+  },
+  {
+    "locale": "my",
+    "country": "Myanmar (Burmese)",
+    "string": "သူ?"
+  },
+  {
+    "locale": "ne",
+    "country": "Nepali",
+    "string": "र उनको?"
+  },
+  {
+    "locale": "nl",
+    "country": "Dutch",
+    "string": "en haar?"
+  },
+  {
+    "locale": "no",
+    "country": "Norwegian",
+    "string": "og henne?"
+  },
+  {
+    "locale": "ny",
+    "country": "Chichewa",
+    "string": "ndi iye?"
+  },
+  {
+    "locale": "pa",
+    "country": "Punjabi",
+    "string": "ਅਤੇ ਉਸਨੂੰ?"
+  },
+  {
+    "locale": "pl",
+    "country": "Polish",
+    "string": "i ona?"
+  },
+  {
+    "locale": "pt",
+    "country": "Portuguese",
+    "string": "e ela?"
+  },
+  {
+    "locale": "ro",
+    "country": "Romanian",
+    "string": "și ea?"
+  },
+  {
+    "locale": "ru",
+    "country": "Russian",
+    "string": "а ее?"
+  },
+  {
+    "locale": "si",
+    "country": "Sinhala",
+    "string": "සහ ඇය"
+  },
+  {
+    "locale": "sk",
+    "country": "Slovak",
+    "string": "a jej?"
+  },
+  {
+    "locale": "sl",
+    "country": "Slovenian",
+    "string": "in njo?"
+  },
+  {
+    "locale": "so",
+    "country": "Somali",
+    "string": "iyo iyada?"
+  },
+  {
+    "locale": "sq",
+    "country": "Albanian",
+    "string": "dhe e saj?"
+  },
+  {
+    "locale": "sr",
+    "country": "Serbian",
+    "string": "и њу?"
+  },
+  {
+    "locale": "st",
+    "country": "Sesotho",
+    "string": "le eena?"
+  },
+  {
+    "locale": "su",
+    "country": "Sundanese",
+    "string": "jeung manehna?"
+  },
+  {
+    "locale": "sv",
+    "country": "Swedish",
+    "string": "och henne?"
+  },
+  {
+    "locale": "sw",
+    "country": "Swahili",
+    "string": "na yeye?"
+  },
+  {
+    "locale": "ta",
+    "country": "Tamil",
+    "string": "அவள்?"
+  },
+  {
+    "locale": "te",
+    "country": "Telugu",
+    "string": "మరియు ఆమె?"
+  },
+  {
+    "locale": "tg",
+    "country": "Tajik",
+    "string": "ва вай?"
+  },
+  {
+    "locale": "th",
+    "country": "Thai",
+    "string": "และเธอ?"
+  },
+  {
+    "locale": "tl",
+    "country": "Filipino",
+    "string": "at kanya?"
+  },
+  {
+    "locale": "tr",
+    "country": "Turkish",
+    "string": "ve o?"
+  },
+  {
+    "locale": "uk",
+    "country": "Ukrainian",
+    "string": "і її?"
+  },
+  {
+    "locale": "ur",
+    "country": "Urdu",
+    "string": "اور اس کا؟"
+  },
+  {
+    "locale": "uz",
+    "country": "Uzbek",
+    "string": "va uni?"
+  },
+  {
+    "locale": "vi",
+    "country": "Vietnamese",
+    "string": "còn cô ấy?"
+  },
+  {
+    "locale": "yi",
+    "country": "Yiddish",
+    "string": "און איר?"
+  },
+  {
+    "locale": "yo",
+    "country": "Yoruba",
+    "string": "ati rẹ?"
+  },
+  {
+    "locale": "zh",
+    "country": "Chinese",
+    "string": "和她？"
+  },
+  {
+    "locale": "zh-CN",
+    "country": "Chinese (Simplified)",
+    "string": "和她？"
+  },
+  {
+    "locale": "zh-TW",
+    "country": "Chinese (Traditional)",
+    "string": "和她？"
+  },
+  {
+    "locale": "zu",
+    "country": "Zulu",
+    "string": "naye?"
+  }
 ]
